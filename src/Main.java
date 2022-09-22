@@ -15,5 +15,10 @@ public class Main {
         for (int f = 0; f<=17; f+=2) {
             System.out.println(f);
         }
+        // Задание 4.1
+        System.out.println("Задание 4.1");
+        for (int x = 10; x>=-10;x-=1) {
+            System.out.println(x);
+        }
     }
 }
