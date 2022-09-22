@@ -7,7 +7,7 @@ public class Main {
         }
         // Задание 2
         System.out.println("Задание 2");
-        for (int j = 10; j>=1; j--) {
+        for (int j = 10; j>= 1; j--) {
             System.out.println(j);
         }
     }
